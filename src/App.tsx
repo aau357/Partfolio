@@ -3,6 +3,7 @@ import ContactInfo from './Companents/ContactInfo'
 import Home from './Companents/Home'
 import Navbar from './Companents/Navbar'
 import About from './Companents/about'
+
 const App = () => {
   return (
     // maindiv
@@ -21,6 +22,9 @@ const App = () => {
 
         <section id="ContactInfo">
           <ContactInfo />
+        </section>
+        <section id="projects">
+       
         </section>
       </>
 
